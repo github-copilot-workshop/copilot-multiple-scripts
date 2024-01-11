@@ -1,4 +1,4 @@
-# Solving Problem Quickly
+# Creating a Shell Script and Improve it
 
 In this section you will see how you can use GitHub Copilot to quickly solve problems, without leaving your IDE.
 
