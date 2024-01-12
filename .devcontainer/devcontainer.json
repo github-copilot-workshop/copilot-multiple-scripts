@@ -34,5 +34,6 @@
 				"ms-python.python"
 			]
 		}
-	}
+	},
+	"postCreateCommand": "pip install --upgrade Pillow requests"
 }
